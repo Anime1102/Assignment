@@ -1,3 +1,6 @@
+body{
+    background-color: #F5F8FF;
+}
 header{
     padding: 50px 150px;
     width: auto;
@@ -102,3 +105,61 @@ div button{
     border-radius: 48px;
 }
 
+/* productive user section */
+#productive-user-section{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 306px;
+background-color: rgba(78, 71, 255, 0.1);
+    margin: 150px;
+    border-radius: 24px;
+}
+.product{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    font-family: 'Raleway', sans-serif;
+    width: 856px;
+    height: 45px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#stat{
+    display: flex;
+    justify-content: space-between;
+    width: 856px;
+    height: 121px;
+    
+}
+.stat-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 121px;
+    margin: 0px;
+}
+.stat-item h3{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    font-family: 'Raleway', sans-serif;
+    width: 162px;
+    height: 97px;
+    margin: 0px;
+}
+.stat-item p{
+    font-size: 20px;
+    color: #000000;
+    opacity: 0.5;
+    font-weight: normal;
+    font-family: 'Raleway', sans-serif;
+    width: 120px;
+    height: 24px;
+   margin: 0px;
+}

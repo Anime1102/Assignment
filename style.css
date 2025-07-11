@@ -40,7 +40,7 @@ nav button{
     margin: 158px auto 0 auto;
     
 }
-div p{
+#header--product p{
     font-size: 65px;
     color: black;
     font-weight: bold;
@@ -62,3 +62,43 @@ div button{
     font-weight: bold;
     font-size: 16px;
 }
+#action-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: AUTO;
+    height: 328px;
+    padding: 100px 150px;
+}
+#action-section div h3{
+    font-size: 42px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    width: 517px;
+    height: 49px;
+    margin: 0px;
+    
+}
+#action-section div p{
+    font-size: 24px;
+    color: #252432;
+    opacity: 0.5;
+    font-weight: normal;
+    font-family: 'Raleway', sans-serif;
+    width: 517px;
+    height: 60px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+#action-section div button{
+   
+    height: 48px;
+    width: 229px;
+}
+#action-section div img{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+

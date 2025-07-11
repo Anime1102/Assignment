@@ -219,3 +219,51 @@ background-color: rgba(78, 71, 255, 0.1);
     opacity: 0.5;
     font-family: 'Raleway','sans-serif';
 }
+
+#focus-section{
+    height: 696.77px;
+    width: auto;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+    margin: 150px;
+}
+#focus-section-container{
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 71px 150px;
+}
+#focus-section h3{
+   
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Raleway','sans-serif';
+    margin: 0px;
+    margin-bottom: 20px;
+    height: auto;
+    width: auto;
+
+    
+
+}
+#focus-text{
+    width: auto;
+    height: auto;
+    color: rgb(0, 0, 0,0.5);
+    font-family: 'Raleway','sans-serif';
+    margin-bottom: 20px;
+
+
+
+}
+
+#focus-button{
+    margin-bottom: 20px;
+    border-radius: 10px;
+   
+}
+#focus-section img{
+    border-radius: 48px;
+}
+    
